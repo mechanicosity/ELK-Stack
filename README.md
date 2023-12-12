@@ -1,4 +1,6 @@
-# Elasticsearch stack (ELK) with docker-compose
+#STOLEN FROM EINSTEINISH
+
+## Elasticsearch stack (ELK) with docker-compose
 
 Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
 
