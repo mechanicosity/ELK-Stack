@@ -1,4 +1,5 @@
 # STOLEN FROM EINSTEINISH
+[Einsteinish](https://github.com/Einsteinish/Einsteinish-ELK-Stack-with-docker-compose)
 
 ## Elasticsearch stack (ELK) with docker-compose
 
