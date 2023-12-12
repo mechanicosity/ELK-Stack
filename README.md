@@ -1,4 +1,4 @@
-#STOLEN FROM EINSTEINISH
+# STOLEN FROM EINSTEINISH
 
 ## Elasticsearch stack (ELK) with docker-compose
 
